@@ -1,0 +1,10 @@
+release/armori.o
+release/ase.o
+release/hahmo.o
+release/main.o
+release/peli.o
+release/pulmapeli.o
+release/tapahtuma.o
+release/tavara.o
+release/tavaraluettelo.o
+release/vihollinen.o

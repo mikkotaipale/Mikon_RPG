@@ -1,0 +1,10 @@
+debug/armori.o
+debug/ase.o
+debug/hahmo.o
+debug/main.o
+debug/peli.o
+debug/pulmapeli.o
+debug/tapahtuma.o
+debug/tavara.o
+debug/tavaraluettelo.o
+debug/vihollinen.o

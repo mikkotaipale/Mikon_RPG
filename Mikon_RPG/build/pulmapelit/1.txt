@@ -1,0 +1,6 @@
+Paljon on 1 + 2?
+3
+Yksi
+Viisi
+Kolme
+2
